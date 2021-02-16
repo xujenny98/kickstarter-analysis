@@ -1,5 +1,5 @@
 # Overview of project 
-Louise would like to know different theater launch dates and fundraising goals impact campaign results. 
+Louise would like to know how theater launch dates and fundraising goals impact campaign results. 
 # Purpose
 Performing analysis on Kickstarter data to compare Theater Outcomes based on Launch Date and Goals in order to achieve the optimal fundraising result in the future.  
 # Analysis and challenges 
