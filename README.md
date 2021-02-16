@@ -3,7 +3,7 @@ Louise would like to know how theater launch dates and fundraising goals impact 
 # Purpose
 Performing analysis on Kickstarter data to compare Theater Outcomes based on Launch Date and Goals in order to achieve the optimal fundraising result in the future.  
 # Analysis and challenges 
-Analysis of outcomes Based on Launch Date: A pivot table was constructed by selecting outcomes in columns and values, date created conversion in rows, and parent category and year in filter. Then I created a line chart to perform an analysis between the successful, failed, canceled theatre outcomes in different launch months. Possible challenge is selecting the right date in the pivot table.  
+Analysis of outcomes Based on Launch Date: A pivot table was constructed by selecting outcomes in columns and values, date created conversion in rows, and parent category and year in filter. Then I created a line chart to perform an analysis between the successful, failed, canceled theatre outcomes in different launch months.   
 <br />The number of successful outcome and Failure outcome for the theater is the highest during the month of May.  
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png) 
 
@@ -21,10 +21,10 @@ What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 <br /> -Theater outcome based on launch date has the highest successful rate and failure rate.
 
 <br />What can you conclude about the Outcomes based on Goals?
-<br />Higher dollar goals do not adversely impact success. 
+<br />Higher dollar goals do not adversely impact success rate. 
 
 <br />What are some limitations of this dataset?
-<br />We are not sure that we are using a representative sample size since we are not sure of the population size.  
+<br />We are not sure if we are using the right representative sample size since we don't know the population size.  
 
 <br />What are some other possible tables and/or graphs that we could create?
 <br />Other possible tables to look are the successful, failure, canceled rate by different country, currency and staff pick.  
