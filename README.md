@@ -17,11 +17,11 @@ Challenges of outcomes Based on Goals: A possible challenge is to correctly use 
 
 # Results
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-1.Success and failure rate by launch date are moving at the same direction.
-2.Theater outcome based on launch date has the highest successful rate and failure rate.
-What can you conclude about the Outcomes based on Goals?
-Higher dollar goals do not adversely impact success. 
-What are some limitations of this dataset?
-We are not sure that we are using a representative sample size since we are not sure of the population size.  
-What are some other possible tables and/or graphs that we could create?
-Other possible tables to look are the successful, failure, canceled rate by different country, currency and staff pick.  
+<br />1.Success and failure rate by launch date are moving at the same direction.
+<br />2.Theater outcome based on launch date has the highest successful rate and failure rate.
+<br />What can you conclude about the Outcomes based on Goals?
+<br />Higher dollar goals do not adversely impact success. 
+<br />What are some limitations of this dataset?
+<br />We are not sure that we are using a representative sample size since we are not sure of the population size.  
+<br />What are some other possible tables and/or graphs that we could create?
+<br />Other possible tables to look are the successful, failure, canceled rate by different country, currency and staff pick.  
