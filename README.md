@@ -8,11 +8,12 @@ Analysis of outcomes Based on Launch Date: A pivot table was constructed by sele
 ![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png) 
 
 Analysis of Outcomes Based on Goals: A table was constructed to demonstrate the number and percentage of outcomes (successful, failed and cancelled) according to different goal. I performed the analysis by comparing the percentage of successful, failed and canceled rate to different fundraising goals. 
+
 <br />The successful rate and failure rate has an inverse relationship.  Sucess rate is the highest when the goal is less than $1000 and is the lowest when the goal is around $45,000 to $49,999.
 ![Outcomes_vs_Goal.png](Outcomes_vs_Goal.png)
 # Challenges 
 Challenges of Outcomes Based on Launch Date: Possible challenges are selecting the right date in the pivot table
-Challenges of Outcomes Based on Goals: A possible challenge is to correctly use the countifs function and selecting the right column.  
+<br />Challenges of Outcomes Based on Goals: A possible challenge is to correctly use the countifs function and selecting the right column.  
 
 # Results
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
