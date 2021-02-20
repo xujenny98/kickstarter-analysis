@@ -17,11 +17,10 @@ Challenges of Outcomes Based on Launch Date: Possible challenges are selecting t
 
 # Results
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-<br /> -Success and failure rate by launch date are moving at the same direction.
-<br /> -Theater outcome based on launch date has the highest successful rate and failure rate.
+<br /> Based on the analysis May to August had the best outcome, therefore it may be a good time for Louise to start a fundarsing project during those peroids. In addition, the number of failed outcome is also the higest in this period which may due to the total number of outcomes. The number of failed outcome is the highest in December. Possible reason is that people have lower budget because most money is spent on holidays including gifts, vacation, and dinners. As a result, its not recommeded to launch a campaign in December.
 
 <br />What can you conclude about the Outcomes based on Goals?
-<br />Higher dollar goals do not adversely impact success rate. 
+<br />The graph shows a adverse relationship between dollar goals and success rate. Louise is most likely to reach her goal if her goal amount is less than $1000, where the percent of success rate is the high and percent of failed rate is the low. On the other hand, she is least likely to reach her goal when her goal amount is between $45,000 to $49,999. As goal reach to $45,000 to $49,000 the percent of success is 0 and the percent of failed rate is 100. 
 
 <br />What are some limitations of this dataset?
 <br />We are not sure if we are using the right representative sample size since we don't know the population size.  
